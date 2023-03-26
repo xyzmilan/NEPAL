@@ -9,7 +9,7 @@ Cookies?
 ```
 https://chrome.google.com/webstore/detail/cookiedough/hacigcgfiefikmkmmmncaiaijoffndpl
 ```
-# Contributers
+# Contributors 
 1. Milan Bhandari
 
 • [Facebook](https://www.facebook.com/profile.php?id=100066552602287)
